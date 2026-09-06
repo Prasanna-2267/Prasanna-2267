@@ -1,16 +1,48 @@
-## Hi there 👋
+# Prasanna
 
-<!--
-**Prasanna-2267/Prasanna-2267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer · AI Engineer · Freelancer
 
-Here are some ideas to get you started:
+I build AI-powered products, full-stack applications,
+and scalable digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+### Languages
+C++ · Python · Java · JavaScript · TypeScript · SQL
+
+### Frontend
+React · Next.js · Tailwind CSS
+
+### Backend
+Node.js · Express · REST APIs
+
+### AI / ML
+LLMs · RAG · Agentic AI · NLP
+
+### Databases
+PostgreSQL · MySQL · MongoDB · Supabase
+
+### Cloud
+AWS · Vercel · Cloudflare · Docker
+
+## 💼 Freelance Projects
+
+### Project 1
+**Role:** Full-Stack Developer
+
+**Responsibilities**
+- Developed frontend
+- Built backend APIs
+- Designed database
+- Integrated third-party services
+- Deployed application
+
+**Tech:** React · Node.js · PostgreSQL
+
+## 🧠 Featured Projects
+
+- Oncology Agentic RAG
+- GlucoAI
+- Hirelytics
+- TrackGuard-AI
+- UniAssist
