@@ -27,7 +27,7 @@ Turning ideas into intelligent products with AI, code, and creativity.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,bash" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,cpp,java,typescript" />
 </p>
 
 ### Frontend
@@ -39,13 +39,13 @@ Turning ideas into intelligent products with AI, code, and creativity.
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=langgraph,n8n,python,pytorch,tensorflow" />
 </p>
 
 `LLMs` · `RAG` · `Agentic AI` · `NLP` · `AI Agents` · `Vector Search`
@@ -59,13 +59,13 @@ Turning ideas into intelligent products with AI, code, and creativity.
 ### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
