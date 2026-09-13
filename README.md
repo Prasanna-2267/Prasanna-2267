@@ -1,10 +1,10 @@
 <div align="center">
 
-# PRASANNA
+# PRASANNA SARAVANAN
 
 **Software Developer · AI Engineer · Freelancer**
 
-Building AI-powered products, full-stack applications, and scalable digital solutions.
+Turning ideas into intelligent products with AI, code, and creativity.
 
 <br>
 
@@ -167,7 +167,7 @@ Docker · AWS · CI/CD · Production deployments
 
 <br>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:prasannasaravanan2267@gmail.com">
   <img src="https://img.shields.io/badge/Get%20in%20Touch-181717?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
