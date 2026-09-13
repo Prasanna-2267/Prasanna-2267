@@ -24,79 +24,97 @@ Turning ideas into intelligent products with AI, code, and creativity.
 
 ## Tech Stack
 
-## Tech Stack
-
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**Languages**
+<strong>Languages</strong>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java&theme=dark" height="45"/>
+<br><br>
 
-    </td>
-    <td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java&theme=dark" height="45">
 
-**Frontend**
+</td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="45"/>
+<td width="50%" valign="top">
 
-    </td>
-  </tr>
+<strong>Frontend</strong>
 
-  <tr>
-    <td width="50%" valign="top">
+<br><br>
 
-**Backend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="45">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="45"/>
+</td>
+</tr>
 
-    </td>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**AI / GenAI**
+<strong>Backend</strong>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45"/>
-<img src="https://cdn.simpleicons.org/langgraph" height="45"/>
-<img src="https://cdn.simpleicons.org/n8n" height="45"/>
+<br><br>
 
-<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="45">
+
+</td>
+
+<td width="50%" valign="top">
+
+<strong>AI / GenAI</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45">
+<img src="https://cdn.simpleicons.org/langgraph" height="45">
+<img src="https://cdn.simpleicons.org/n8n" height="45">
+
+<br><br>
 
 <sub>LLMs · RAG · Agentic AI · AI Agents · NLP · Vector Search</sub>
 
-    </td>
-  </tr>
+</td>
+</tr>
 
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**Databases**
+<strong>Databases</strong>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis&theme=dark" height="45"/>
+<br><br>
 
-    </td>
-    <td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis&theme=dark" height="45">
 
-**Cloud & DevOps**
+</td>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel&theme=dark" height="45"/>
+<td width="50%" valign="top">
 
-    </td>
-  </tr>
+<strong>Cloud & DevOps</strong>
 
-  <tr>
-    <td width="50%" valign="top">
+<br><br>
 
-**Tools**
+<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel&theme=dark" height="45">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="45"/>
+</td>
+</tr>
 
-    </td>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-    </td>
-  </tr>
+<strong>Tools</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="45">
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
+
+---
 
 ## Freelance Work
 
@@ -105,6 +123,8 @@ Turning ideas into intelligent products with AI, code, and creativity.
 **Full-Stack Developer · AI Engineer**
 
 > Short description of the product and the problem it solves.
+
+**Responsibilities**
 
 - Application architecture and development
 - Frontend & backend implementation
@@ -123,6 +143,8 @@ Turning ideas into intelligent products with AI, code, and creativity.
 
 > Short description of the product and the problem it solves.
 
+**Responsibilities**
+
 - Translated business requirements into technical solutions
 - Developed frontend and backend functionality
 - Designed database architecture
@@ -139,6 +161,8 @@ Turning ideas into intelligent products with AI, code, and creativity.
 
 > Short description of the AI solution and the problem it solves.
 
+**Responsibilities**
+
 - Designed AI application architecture
 - Developed RAG and retrieval workflows
 - Integrated LLM capabilities
@@ -153,12 +177,12 @@ Turning ideas into intelligent products with AI, code, and creativity.
 ## Selected Projects
 
 | Project | Description | Stack |
-| --- | --- | --- |
-| 🧬 **[Oncology Agentic RAG](https://github.com/Prasanna-2267/oncology-agentic-rag)** | Agentic RAG system for oncology-related information | Python · RAG · LLM |
-| 🩺 **[GlucoAI](https://github.com/Prasanna-2267/GlucoAI)** | AI-powered healthcare application | TypeScript · AI |
-| 👔 **[Hirelytics](https://github.com/Prasanna-2267/Hirelytics)** | Intelligent hiring and recruitment platform | Python · AI |
-| 🛡️ **[TrackGuard-AI](https://github.com/Prasanna-2267/TrackGuard-AI)** | AI-powered tracking and monitoring solution | Python · AI |
-| 🎓 **[UniAssist](https://github.com/Prasanna-2267/UniAssist)** | Platform for university and student workflows | TypeScript · AI |
+|:---|:---|:---|
+| 🧬 **[Oncology Agentic RAG](https://github.com/Prasanna-2267/oncology-agentic-rag)** | Agentic RAG system for oncology-related information | `Python` · `RAG` · `LLM` |
+| 🩺 **[GlucoAI](https://github.com/Prasanna-2267/GlucoAI)** | AI-powered healthcare application | `TypeScript` · `AI` |
+| 👔 **[Hirelytics](https://github.com/Prasanna-2267/Hirelytics)** | Intelligent hiring and recruitment platform | `Python` · `AI` |
+| 🛡️ **[TrackGuard-AI](https://github.com/Prasanna-2267/TrackGuard-AI)** | AI-powered tracking and monitoring solution | `Python` · `AI` |
+| 🎓 **[UniAssist](https://github.com/Prasanna-2267/UniAssist)** | Platform for university and student workflows | `TypeScript` · `AI` |
 
 ---
 
