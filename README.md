@@ -70,8 +70,6 @@ Turning ideas into intelligent products with AI, code, and creativity.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
----
-
 ## Freelance Work
 
 ### Project Name 01
