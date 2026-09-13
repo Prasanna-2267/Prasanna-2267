@@ -24,96 +24,82 @@ Turning ideas into intelligent products with AI, code, and creativity.
 
 ## Tech Stack
 
+## Tech Stack
+
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <strong>Languages</strong>
+      <br><br>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java&theme=dark" height="45"/>
+      </div>
+    </td>
 
-<strong>Languages</strong>
+    <td width="50%" valign="top" align="left">
+      <strong>Frontend</strong>
+      <br><br>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="45"/>
+      </div>
+    </td>
+  </tr>
 
-<br><br>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <strong>Backend</strong>
+      <br><br>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="45"/>
+      </div>
+    </td>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java&theme=dark" height="45">
+    <td width="50%" valign="top" align="left">
+      <strong>AI / GenAI</strong>
+      <br><br>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45"/>
+        <img src="https://cdn.simpleicons.org/langgraph" height="45"/>
+        <img src="https://cdn.simpleicons.org/n8n" height="45"/>
+      </div>
+      <br>
+      <div align="center">
+        <sub>LLMs · RAG · Agentic AI · AI Agents · NLP · Vector Search</sub>
+      </div>
+    </td>
+  </tr>
 
-</td>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <strong>Databases</strong>
+      <br><br>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis&theme=dark" height="45"/>
+      </div>
+    </td>
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
+      <strong>Cloud & DevOps</strong>
+      <br><br>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel&theme=dark" height="45"/>
+      </div>
+    </td>
+  </tr>
 
-<strong>Frontend</strong>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <strong>Tools</strong>
+      <br><br>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="45"/>
+      </div>
+    </td>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="45">
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<strong>Backend</strong>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="45">
-
-</td>
-
-<td width="50%" valign="top">
-
-<strong>AI / GenAI</strong>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45">
-<img src="https://cdn.simpleicons.org/langgraph" height="45">
-<img src="https://cdn.simpleicons.org/n8n" height="45">
-
-<br><br>
-
-<sub>LLMs · RAG · Agentic AI · AI Agents · NLP · Vector Search</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<strong>Databases</strong>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis&theme=dark" height="45">
-
-</td>
-
-<td width="50%" valign="top">
-
-<strong>Cloud & DevOps</strong>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel&theme=dark" height="45">
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<strong>Tools</strong>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="45">
-
-</td>
-
-<td width="50%" valign="top">
-
-</td>
-</tr>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
-
 ---
 
 ## Freelance Work
