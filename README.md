@@ -11,7 +11,7 @@ Turning ideas into intelligent products with AI, code, and creativity.
 <a href="https://github.com/Prasanna-2267">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:prasannasaravanan2267@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="YOUR_LINKEDIN_URL">
@@ -24,45 +24,47 @@ Turning ideas into intelligent products with AI, code, and creativity.
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,cpp,java,typescript" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java" />
 </p>
 
-### Frontend
+**Frontend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-### Backend
+**Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### AI / Machine Learning
+**AI / GenAI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=langgraph,n8n,python,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://cdn.simpleicons.org/langgraph" width="48" height="48" title="LangGraph"/>
+  <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" title="n8n"/>
 </p>
 
-`LLMs` · `RAG` · `Agentic AI` · `NLP` · `AI Agents` · `Vector Search`
+`LLMs` · `RAG` · `Agentic AI` · `AI Agents` · `NLP` · `Vector Search` · `Workflow Automation`
 
-### Databases
+**Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis" />
 </p>
 
-### Cloud & DevOps
+**Cloud & DevOps**
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel" />
 </p>
 
-### Tools
+**Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -74,19 +76,16 @@ Turning ideas into intelligent products with AI, code, and creativity.
 
 ### Project Name 01
 
-**Role:** Full-Stack Developer · AI Engineer
+**Full-Stack Developer · AI Engineer**
 
 > Short description of the product and the problem it solves.
 
-**Responsibilities**
 - Application architecture and development
-- Frontend and backend implementation
+- Frontend & backend implementation
 - Database design and integration
-- API and third-party service integration
+- API & third-party integrations
 - AI / LLM integration
 - Deployment and production support
-
-**Stack**
 
 `React` `Node.js` `TypeScript` `PostgreSQL`
 
@@ -94,18 +93,15 @@ Turning ideas into intelligent products with AI, code, and creativity.
 
 ### Project Name 02
 
-**Role:** Full-Stack Developer
+**Full-Stack Developer**
 
 > Short description of the product and the problem it solves.
 
-**Responsibilities**
 - Translated business requirements into technical solutions
 - Developed frontend and backend functionality
 - Designed database architecture
 - Integrated external services
 - Tested, deployed and maintained the application
-
-**Stack**
 
 `Next.js` `TypeScript` `Node.js` `Supabase`
 
@@ -113,19 +109,16 @@ Turning ideas into intelligent products with AI, code, and creativity.
 
 ### Project Name 03
 
-**Role:** AI Engineer · Full-Stack Developer
+**AI Engineer · Full-Stack Developer**
 
 > Short description of the AI solution and the problem it solves.
 
-**Responsibilities**
 - Designed AI application architecture
 - Developed RAG and retrieval workflows
 - Integrated LLM capabilities
 - Built backend APIs
 - Implemented data processing and vector search
 - Developed and deployed the application
-
-**Stack**
 
 `Python` `FastAPI` `PostgreSQL` `Docker`
 
@@ -140,22 +133,6 @@ Turning ideas into intelligent products with AI, code, and creativity.
 | 👔 **[Hirelytics](https://github.com/Prasanna-2267/Hirelytics)** | Intelligent hiring and recruitment platform | Python · AI |
 | 🛡️ **[TrackGuard-AI](https://github.com/Prasanna-2267/TrackGuard-AI)** | AI-powered tracking and monitoring solution | Python · AI |
 | 🎓 **[UniAssist](https://github.com/Prasanna-2267/UniAssist)** | Platform for university and student workflows | TypeScript · AI |
-
----
-
-## What I Build
-
-**AI Systems**  
-LLM applications · RAG · AI Agents · Intelligent automation
-
-**Full-Stack Applications**  
-SaaS · Business platforms · Dashboards · Web applications
-
-**Backend Systems**  
-REST APIs · Databases · Authentication · Integrations
-
-**Cloud & Deployment**  
-Docker · AWS · CI/CD · Production deployments
 
 ---
 
