@@ -24,51 +24,79 @@ Turning ideas into intelligent products with AI, code, and creativity.
 
 ## Tech Stack
 
+## Tech Stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java" />
-</p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java&theme=dark" height="45"/>
+
+    </td>
+    <td width="50%" valign="top">
 
 **Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="45"/>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 **Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="45"/>
+
+    </td>
+    <td width="50%" valign="top">
 
 **AI / GenAI**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://cdn.simpleicons.org/langgraph" width="48" height="48" title="LangGraph"/>
-  <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" title="n8n"/>
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45"/>
+<img src="https://cdn.simpleicons.org/langgraph" height="45"/>
+<img src="https://cdn.simpleicons.org/n8n" height="45"/>
 
-`LLMs` · `RAG` · `Agentic AI` · `AI Agents` · `NLP` · `Vector Search` · `Workflow Automation`
+<br>
+
+<sub>LLMs · RAG · Agentic AI · AI Agents · NLP · Vector Search</sub>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 **Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis&theme=dark" height="45"/>
+
+    </td>
+    <td width="50%" valign="top">
 
 **Cloud & DevOps**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel&theme=dark" height="45"/>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 **Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="45"/>
+
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+</table>
 
 ## Freelance Work
 
